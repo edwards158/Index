@@ -1,4 +1,4 @@
-#### Hi and Welcome to my github landing page
+#### Hi - welcome to my github landing page
 
 #### This page contains links to my repositories.  These repos contain some of my work in python, data science and machine learning.  Please follow the links below:
 
