@@ -5,6 +5,7 @@
 * [Machine Learning and Data Science](https://github.com/riched158/MachineLearning)
 * [Deep Machine Learning](https://github.com/riched158/DeepLearning) 
 * [Data Science (Udacity Course)](https://github.com/riched158/Udacity-Data)
+* [ML API models](https://github.com/riched158/API)
 * [Python Web Development](https://github.com/riched158/Treehouse)
 * [KTP](https://github.com/riched158/KTP)
 
