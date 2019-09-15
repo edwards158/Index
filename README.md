@@ -1,6 +1,6 @@
-### My Github Landing Page
+# My Github Landing Page
 
-#### This page contains links to my repositories.  These repos contain some of my work in python, data science and machine learning.  Please follow the links below:
+This page contains links to my repos.  These repos contain some of my work in data science and machine learning.  Please follow the links below:
 
 * [Machine Learning and Data Science](https://github.com/riched158/MachineLearning)
 * [Deep Machine Learning](https://github.com/riched158/DeepLearning)
