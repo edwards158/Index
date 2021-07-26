@@ -10,4 +10,4 @@ This page contains links to my repos.  These jupyter notebooks contain some of m
 * [PySpark](https://github.com/riched158/ApacheSpark)
 * [Data Science (Udacity Course)](https://github.com/riched158/Udacity-Data)
 
-* [Go Home](https://github.com/riched158?tab=repositories)
+* [Go Home](https://github.com/edwards158)
