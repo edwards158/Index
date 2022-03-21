@@ -4,7 +4,7 @@ This page contains links to my repos.  These repos contain course work, IT certi
 
 * [Machine Learning and Data Science](https://github.com/riched158/MachineLearning) - My machine learning and data science notebooks using python data science stack.
 * [Udacity Deep learning ](https://github.com/riched158/deep-nano) - Coursework from Udacity Deep Learning NanoDegree using Pytorch
-* [Udacity Machine Learning DevOps](https://github.com/edwards158/ml_dev_ops) - Coursework from Udacity Machine Learning DevOps NanoDegree using python
+* [Udacity Machine Learning DevOps](https://github.com/edwards158/dev_ops_mls) - Coursework from Udacity Machine Learning DevOps NanoDegree using python
 * [Deep Machine Learning](https://github.com/riched158/DeepLearning) - My deep learning notebooks using Keras.
 * [Udacity SQL ](https://github.com/edwards158/SQL-nano) - Coursework from Udacity SQL NanoDegree
 * [IT Certifications](https://github.com/riched158/Certificates) - AWS and Kubernetes certifications 
